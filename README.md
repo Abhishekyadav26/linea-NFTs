@@ -1,5 +1,5 @@
+![tw-banner](https://github.com/user-attachments/assets/948a7b2e-8926-4bde-96e2-c2a603919b1d)
 
-![tw-banner](https://github.com/user-attachments/assets/76345ae5-cb75-47e3-b5a9-1793d0726f8c)
 
 ## Environment Variables
 
